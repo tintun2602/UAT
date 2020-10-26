@@ -229,3 +229,27 @@ label {
   align-items: center;
   justify-content: space-between;
 }
+/* Studies 
+*/
+.ourstudy {
+  text-align: center;
+  margin: auto;
+  font-size: 100px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: yellow;
+  border-bottom: 2px solid black;
+}
+
+.head-study{
+  font-size: 70px;
+  text-align: center;
+  background-color: yellow;
+  border-top: 2px solid black;
+}
+.study-text {
+font-size: 50px;
+padding: 80px 30px;
+margin-bottom: 50px;
+
+}
