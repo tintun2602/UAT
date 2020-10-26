@@ -235,9 +235,11 @@ label {
   text-align: center;
   margin: auto;
   font-size: 100px;
+  color: aliceblue;
   padding-top: 80px;
   padding-bottom: 80px;
-  background-color: yellow;
+  background-size: cover;
+  background-image:url("https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1932&q=80");
   border-bottom: 2px solid black;
 }
 
@@ -248,8 +250,12 @@ label {
   border-top: 2px solid black;
 }
 .study-text {
-font-size: 50px;
+font-size: 40px;
 padding: 80px 30px;
 margin-bottom: 50px;
-
+display: flex;
+}
+.photo-study {
+  width: 900px;
+  height: 500px;
 }
