@@ -40,31 +40,42 @@
     </div>
 
     <div class="contactform">
-      <div class="box">
+      <form class="box" action="https://www.youtube.com/watch?v=twxep60Tef4">
         <label
-          >First name<input type="text" placeholder="Insert your first name"
+          >First name<input
+            required
+            type="text"
+            placeholder="Insert your first name"
         /></label>
-        <br />
+
         <label
-          >Last name<input type="text" placeholder="Insert your last name"
+          >Last name<input
+            required
+            type="text"
+            placeholder="Insert your last name"
         /></label>
-        <br />
+
         <label
-          >Birthdate<input type="text" placeholder="Insert your Birthdate"
+          >Birthdate<input
+            required
+            type="text"
+            placeholder="Insert your Birthdate"
         /></label>
-        <br />
+
         <label
-          >Email<input type="text" placeholder="Insert your Email"
+          >Email<input required type="email" placeholder="Insert your Email"
         /></label>
-        <br />
+
         <label
           >Message
           <textarea
+            required
             type="text"
             placeholder="Message us anything you would like to know"
           ></textarea>
         </label>
-      </div>
+        <input type="submit" value="submit" />
+      </form>
     </div>
     <footer>
       <div class="infofooter">
