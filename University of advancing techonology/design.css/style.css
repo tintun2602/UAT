@@ -245,23 +245,13 @@ label {
 }
 
 .head-study {
-<<<<<<< HEAD
-  font-size: 70px;
-=======
   font-size: 40px;
->>>>>>> d2a31e94178726df92c77344f04490843cb32fb0
   text-align: center;
   background-color: yellow;
   border-top: 2px solid black;
   border-bottom: 2px solid black;
 }
 .study-text {
-<<<<<<< HEAD
-  font-size: 40px;
-  padding: 80px 30px;
-  margin-bottom: 50px;
-  display: flex;
-=======
   font-size: 20px;
   padding: 10px 80px;
   margin-bottom: 50px;
@@ -269,7 +259,6 @@ label {
   font-family: arial;
   text-align: left;
   padding-top: 1cm;
->>>>>>> d2a31e94178726df92c77344f04490843cb32fb0
 }
 .photo-study {
   width: 600px;
@@ -283,7 +272,6 @@ label {
   padding: 0px 50px;
   width: auto;
   font-size: 30px;
-<<<<<<< HEAD
 }
 
 /* About
@@ -321,7 +309,6 @@ label {
 .aimg {
   height: 500px;
   width: 500px;
-=======
   text-decoration: none;
   color: black;
 }
@@ -353,5 +340,4 @@ label {
   .logo-img {
     width: 2cm;
   }
->>>>>>> d2a31e94178726df92c77344f04490843cb32fb0
 }
