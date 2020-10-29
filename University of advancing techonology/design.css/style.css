@@ -329,6 +329,7 @@ label {
 @media screen and (max-width: 768px) {
   .study-text {
     flex-wrap: wrap;
+    padding: 10px 40px;
   }
   .photo-study {
     flex-basis: 100%;
@@ -348,5 +349,11 @@ label {
   }
   .logo-img {
     width: 2cm;
+  }
+  .about {
+    flex-wrap: wrap;
+  }
+  .abouttext {
+    flex-basis: 100%;
   }
 }
